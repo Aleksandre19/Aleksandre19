@@ -1,6 +1,4 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://github.com/Aleksandre19/Aleksandre19/blob/main/banner01.png?raw=true)
+(https://github.com/Aleksandre19/Aleksandre19/blob/main/banner.png?raw=true)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
