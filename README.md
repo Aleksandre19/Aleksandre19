@@ -1,4 +1,5 @@
 ![I am GitHub Readme Generator's creator](https://github.com/Aleksandre19/Aleksandre19/blob/main/banner.png?raw=true)
+Hi,
 
 I have more than six years of experience in software development. This time has given me the opportunity to prioritize my skills. I love to work with Python, Django, and JavaScript.
 
@@ -14,7 +15,11 @@ Finally, if the project requires a payment system, I implement it using the Stri
 
 This is a general workflow of the development process, and it's not set in stone. I just wanted to demonstrate my awareness of the various stages, aspects, and nuances involved in development.
 
-Thank you for visiting my GitHub page. I wish you successful development.
+Thank you for visiting my GitHub page. 
+
+
+All of the best,
+Aleksandre
 
 
 
