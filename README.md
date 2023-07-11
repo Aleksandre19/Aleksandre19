@@ -8,6 +8,7 @@ Thank you for visiting my GitHub page. I hope you find something helpful here.
 
 With joy, Aleksandre
 
+## Skills
 💻 **Technologies:** 
 <div>
     <code>Python (OOP)</code> | <code>JavaScript</code> | <code>HTML5</code> | <code>CSS3</code>
