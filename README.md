@@ -8,75 +8,64 @@ Thank you for visiting my GitHub page. I hope you find something helpful here.
 
 With joy, Aleksandre
 
-## My Skills
+
+
+### My Skills
+
+💻 **Technologies:** 
 <p>
-    💻 **Technologies:** 
-    <div>
-        <code>Python (OOP)</code> | <code>JavaScript</code> | <code>HTML5</code> | <code>CSS3</code>
-    </div>
- </p>
- 
----
-<p>
-    🛠️ **Frameworks/Libraries:** 
-    <div>
-        <code>Django</code> | <code>Django REST</code> | <code>Channels</code> | <code>Celery</code> | <code>Flask</code> | <code>jQuery</code> | <code>Bootstrap</code> | <code>MaterializeCSS</code>
-    </div>
+    <code>Python (OOP)</code> | <code>JavaScript</code> | <code>HTML5</code> | <code>CSS3</code>
 </p>
 
 ---
 
+🛠️ **Frameworks/Libraries:** 
 <p>
-    🔌 **Third-Party APIs:**
-    <div>
-        <code>OpenAI</code> | <code>Stripe</code>
-    </div>
+    <code>Django</code> | <code>Django REST</code> | <code>Channels</code> | <code>Celery</code> | <code>Flask</code> | <code>jQuery</code> | <code>Bootstrap</code> | <code>MaterializeCSS</code>
 </p>
 
 ---
 
+🔌 **Third-Party APIs:**
 <p>
-    💾 **Databases:**
-    <div>
-        <code>MongoDB</code> | <code>MySQL</code> | <code>PostgreSQL</code>
-    </div>
+    <code>OpenAI</code> | <code>Stripe</code>
 </p>
 
--
+---
 
+💾 **Databases:**
 <p>
-    🗃️ **Storages:**
-    <div>
-        <code>Amazon S3</code>
-    </div>
+    <code>MongoDB</code> | <code>MySQL</code> | <code>PostgreSQL</code>
 </p>
 
--
+---
 
+🗃️ **Storages:**
 <p>
-    🚀 **Deployment/Platforms:**
-    <div>
-        <code>Heroku</code>
-    </div>
+    <code>Amazon S3</code>
 </p>
 
--
+---
 
+🚀 **Deployment/Platforms:**
 <p>
-    🔄 **Version Control:** 
-    <div>
-        <code>Git</code> | <code>GitHub</code>
-    </div>
+    <code>Heroku</code>
 </p>
 
--
+---
 
+🔄 **Version Control:** 
 <p>
-    🎨 **UX/UI Design:** 
-    <div>
-        <code>Figma</code> | <code>Photoshop CC</code> | <code>Illustrator CC</code>
-    </div>
+    <code>Git</code> | <code>GitHub</code>
 </p>
+
+---
+
+🎨 **UX/UI Design:** 
+<p>
+    <code>Figma</code> | <code>Photoshop CC</code> | <code>Illustrator CC</code>
+</p>
+
 
 
 
