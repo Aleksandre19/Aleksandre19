@@ -50,5 +50,20 @@ With joy, Aleksandre
 </div>
 
 
+### Hi there 👋, I'm Aleksandre
+
+| 💻 **Technologies:** | 🛠️ **Frameworks/Libraries:** | 🔌 **Third-Party APIs:** |
+| --- | --- | --- |
+| Python (OOP) | Django | OpenAI |
+| JavaScript | Django REST | Stripe |
+| HTML5 | Channels |  |
+| CSS3 | Celery |  |
+|  | Flask |  |
+|  | jQuery |  |
+|  | Bootstrap |  |
+|  | MaterializeCSS |  |
+
+
+
 
 
