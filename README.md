@@ -9,47 +9,48 @@ Thank you for visiting my GitHub page. I hope you find something helpful here.
 With joy, Aleksandre
 
 ## My Skills
----
 
-<p>
-    💻 **Technologies:** 
+💻 **Technologies:** 
+<div>
     <code>Python (OOP)</code> | <code>JavaScript</code> | <code>HTML5</code> | <code>CSS3</code>
-</p>
+</div>
 
-<p>
-    🛠️ **Frameworks/Libraries:** 
+🛠️ **Frameworks/Libraries:** 
+<div>
     <code>Django</code> | <code>Django REST</code> | <code>Channels</code> | <code>Celery</code> | <code>Flask</code> | <code>jQuery</code> | <code>Bootstrap</code> | <code>MaterializeCSS</code>
-</p>
+</div>
 
-<p>
-    🔌 **Third-Party APIs:**
+🔌 **Third-Party APIs:**
+<div>
     <code>OpenAI</code> | <code>Stripe</code>
-</p>
+</div>
 
-<p>
-    💾 **Databases:**
+💾 **Databases:**
+<div>
     <code>MongoDB</code> | <code>MySQL</code> | <code>PostgreSQL</code>
-</p>
+</div>
 
-<p>
-    🗃️ **Storages:**
+🗃️ **Storages:**
+<div>
     <code>Amazon S3</code>
-</p>
+</div>
 
-<p>
-    🚀 **Deployment/Platforms:**
+🚀 **Deployment/Platforms:**
+<div>
     <code>Heroku</code>
-</p>
+</div>
 
-<p>
-    🔄 **Version Control:** 
+🔄 **Version Control:** 
+<div>
     <code>Git</code> | <code>GitHub</code>
-</p>
+</div>
 
-<p>
-    🎨 **UX/UI Design:** 
+🎨 **UX/UI Design:** 
+<div>
     <code>Figma</code> | <code>Photoshop CC</code> | <code>Illustrator CC</code>
-</p>
+</div>
+
+
 
 
 
