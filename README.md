@@ -8,46 +8,61 @@ Thank you for visiting my GitHub page. I hope you find something helpful here.
 
 With joy, Aleksandre
 
-## Skills
+## My Skills
+
 💻 **Technologies:** 
-<div>
+<p>
     <code>Python (OOP)</code> | <code>JavaScript</code> | <code>HTML5</code> | <code>CSS3</code>
-</div>
+</p>
+
+---
 
 🛠️ **Frameworks/Libraries:** 
-<div>
+<p>
     <code>Django</code> | <code>Django REST</code> | <code>Channels</code> | <code>Celery</code> | <code>Flask</code> | <code>jQuery</code> | <code>Bootstrap</code> | <code>MaterializeCSS</code>
-</div>
+</p>
+
+---
 
 🔌 **Third-Party APIs:**
-<div>
+<p>
     <code>OpenAI</code> | <code>Stripe</code>
-</div>
+</p>
+
+---
 
 💾 **Databases:**
-<div>
+<p>
     <code>MongoDB</code> | <code>MySQL</code> | <code>PostgreSQL</code>
-</div>
+</p>
+
+---
 
 🗃️ **Storages:**
-<div>
+<p>
     <code>Amazon S3</code>
-</div>
+</p>
+
+---
 
 🚀 **Deployment/Platforms:**
-<div>
+<p>
     <code>Heroku</code>
-</div>
+</p>
+
+---
 
 🔄 **Version Control:** 
-<div>
+<p>
     <code>Git</code> | <code>GitHub</code>
-</div>
+</p>
+
+---
 
 🎨 **UX/UI Design:** 
-<div>
+<p>
     <code>Figma</code> | <code>Photoshop CC</code> | <code>Illustrator CC</code>
-</div>
+</p>
 
 
 
