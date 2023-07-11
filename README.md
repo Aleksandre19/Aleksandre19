@@ -17,49 +17,35 @@ With joy, Aleksandre
     <code>Python (OOP)</code> | <code>JavaScript</code> | <code>HTML5</code> | <code>CSS3</code>
 </p>
 
---
-
 🛠️ **Frameworks/Libraries:** 
 <p>
     <code>Django</code> | <code>Django REST</code> | <code>Channels</code> | <code>Celery</code> | <code>Flask</code> | <code>jQuery</code> | <code>Bootstrap</code> | <code>MaterializeCSS</code>
 </p>
-
---
 
 🔌 **Third-Party APIs:**
 <p>
     <code>OpenAI</code> | <code>Stripe</code>
 </p>
 
---
-
 💾 **Databases:**
 <p>
     <code>MongoDB</code> | <code>MySQL</code> | <code>PostgreSQL</code>
 </p>
-
---
 
 🗃️ **Storages:**
 <p>
     <code>Amazon S3</code>
 </p>
 
----
-
 🚀 **Deployment/Platforms:**
 <p>
     <code>Heroku</code>
 </p>
 
----
-
 🔄 **Version Control:** 
 <p>
     <code>Git</code> | <code>GitHub</code>
 </p>
-
----
 
 🎨 **UX/UI Design:** 
 <p>
