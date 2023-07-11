@@ -1,25 +1,52 @@
 ![I am GitHub Readme Generator's creator](https://github.com/Aleksandre19/Aleksandre19/blob/main/banner.png?raw=true)
-Hi,
 
-I have more than six years of experience in software development. This time has given me the opportunity to prioritize my skills. I love to work with Python, Django, and JavaScript.
+Hi, 
 
-Typically, I start the development process by researching the project area and exploring similar ones. I identify the pros and cons, and ultimately synthesize the project's ideas and needs to the possibilities, technologies and experience. 
+Being in the second half of one's thirties, it can be challenging to find excitement. It feels like all the games have been played and everything is understandable. But when you step into the world of programming, the excitement returns. You enjoy programming as much as you did playing with Legos in your childhood. The most joyful part is that it's bottomless. The deeper you dive into programming, the broader the horizon becomes, and the more it excites you.
 
-The process continues in Figma, where I start sketching different ideas, gradually moving to the design phase. After continuously testing and refining the design, the prototyping completes the UX/UI.
+Thank you for visiting my GitHub page. I hope you find something helpful here.
 
-Once the UX/UI is ready, things get more fun. I mostly use the Django framework to build web applications. First, I install Django and immediately create a Custom User Model, followed by all necessary configurations in settings.py. After building the basic template structure, front-end development begins. I create the structure of the web application using HTML5, apply CSS3, and finish with JavaScript by implementing the user interaction aspect of the project. My favorite part of front-end development is working with JavaScript. If needed, I also use Bootstrap, MaterializeCSS, or jQuery.
+With joy, Aleksandre
 
-Now the project has visuals, and all user interaction elements are functional. It may seem finished, but my favorite phase is about to begin. This involves structuring database tables, defining their connections, and creating models accordingly. After working on the models, it's time for views, which I particularly enjoy, as they generally involve logic implementation and data manipulation using Python or Django's built-in functions.
+💻 **Technologies:** 
+<div>
+    <code>Python (OOP)</code> | <code>JavaScript</code> | <code>HTML5</code> | <code>CSS3</code>
+</div>
 
-Finally, if the project requires a payment system, I implement it using the Stripe API or PayPal.
+🛠️ **Frameworks/Libraries:** 
+<div>
+    <code>Django</code> | <code>Django REST</code> | <code>Channels</code> | <code>Celery</code> | <code>Flask</code> | <code>jQuery</code> | <code>Bootstrap</code> | <code>MaterializeCSS</code>
+</div>
 
-This is a general workflow of the development process, and it's not set in stone. I just wanted to demonstrate my awareness of the various stages, aspects, and nuances involved in development.
+🔌 **Third-Party APIs:**
+<div>
+    <code>OpenAI</code> | <code>Stripe</code>
+</div>
 
-Thank you for visiting my GitHub page. 
+💾 **Databases:**
+<div>
+    <code>MongoDB</code> | <code>MySQL</code> | <code>PostgreSQL</code>
+</div>
 
+🗃️ **Storages:**
+<div>
+    <code>Amazon S3</code>
+</div>
 
-All of the best,
-Aleksandre
+🚀 **Deployment/Platforms:**
+<div>
+    <code>Heroku</code>
+</div>
+
+🔄 **Version Control:** 
+<div>
+    <code>Git</code> | <code>GitHub</code>
+</div>
+
+🎨 **UX/UI Design:** 
+<div>
+    <code>Figma</code> | <code>Photoshop CC</code> | <code>Illustrator CC</code>
+</div>
 
 
 
