@@ -1,3 +1,4 @@
+<div align="left" style="width: 100%">
 ![I am GitHub Readme Generator's creator](https://github.com/Aleksandre19/Aleksandre19/blob/main/banner.png?raw=true)
 
 Hi there 👋, 
@@ -55,6 +56,7 @@ With joy, Aleksandre
     🎨 **UX/UI Design:** 
     <code>Figma</code> | <code>Photoshop CC</code> | <code>Illustrator CC</code>
 </p>
+</div>
 
 
 
