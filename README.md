@@ -13,14 +13,14 @@ With joy, Aleksandre
 ---
 
 <p>
-    💻 **Technologies:** 
+    💻 **Technologies:**
     <code>Python (OOP)</code> | <code>JavaScript</code> | <code>HTML5</code> | <code>CSS3</code>
 </p>
 
 
 <p>
     🛠️ **Frameworks/Libraries:** 
-    <code>Django</code> | <code>Django REST</code> | <code>Channels</code> | <code>Celery</code> | <code>Flask</code> | <code>jQuery</code> | <code>Bootstrap</code> | <code>MaterializeCSS</code>
+    <code>Django</code> | <code>Django REST</code> | <code>Flask</code> | <code>REACT</code> | <code>jQuery</code> | <code>Bootstrap</code> | <code>MaterializeCSS</code>
 </p>
 
 
