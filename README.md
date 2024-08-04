@@ -14,19 +14,23 @@ With joy, Aleksandre
 
 <p>
     💻 **Technologies:**
-    <code>Python (OOP)</code> | <code>JavaScript</code> | <code>HTML5</code> | <code>CSS3</code>
+    <code>Python (OOP)</code> | <code>JavaScript</code> | <code>TypeScript</code> | <code>Node</code> |<code>HTML5</code> | <code>CSS3</code>
 </p>
 
 
 <p>
     🛠️ **Frameworks/Libraries:** 
-    <code>Django</code> | <code>Django REST</code> | <code>Flask</code> | <code>REACT</code> | <code>jQuery</code> | <code>Bootstrap</code> | <code>MaterializeCSS</code>
+    <code>Django</code> | <code>Django REST</code> | <code>Flask</code> | <code>REACT</code> | <code>Express.js</code> | <code>jQuery</code> | <code>Bootstrap</code> | <code>MaterializeCSS</code>
 </p>
 
+<p>
+    🤖 **AI/ML:**
+    <code>Linear Regression</code> | <code>Classification</code> | <code>Neural Networks</code> | <code> Decision Trees</code>
+</p>
 
 <p>
     🔌 **Third-Party APIs:**
-    <code>OpenAI</code> | <code>Stripe</code>
+    <code>OpenAI</code> | <code>Stripe</code> | <code>PayPal API</code>
 </p>
 
 <p>
