@@ -14,7 +14,7 @@ With joy, Aleksandre
 
 <p>
     💻 **Technologies:**
-    <code>Python (OOP)</code> | <code>JavaScript</code> | <code>TypeScript</code> | <code>Node</code> |<code>HTML5</code> | <code>CSS3</code>
+    <code>Python</code> | <code>JavaScript</code> | <code>TypeScript</code> | <code>Node</code> |<code>HTML5</code> | <code>CSS3</code>
 </p>
 
 
