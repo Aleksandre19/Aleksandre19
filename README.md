@@ -1,10 +1,10 @@
 Hi there 👋, 
 
-Being in the second half of one's thirties, it can be challenging to find excitement. It feels like all the games have been played and everything is understandable. But when you step into the world of programming, the excitement returns. You enjoy programming as much as you did playing with Legos in your childhood. The most joyful part is that it's bottomless. The deeper you dive into programming, the broader the horizon becomes, and the more it excites you.
+I am a Full Stack Software Developer with nine years of experience. My primary technologies are Python, JavaScript, and TypeScript, and I have past experience with PHP as well. I'm well-versed in relevant frameworks such as React, Next.js, Express.js, Django, Flask, FastAPI, and WordPress. I also use the Node.js environment for full-stack application development.
 
-Thank you for visiting my GitHub page. I hope you find something helpful here.
+I have a passion for creating smooth, clear, and user-friendly UX/UI. As a developer, I believe in continuous learning, which drives me to constantly update my skills and adapt to current market requirements.
 
-With joy, Aleksandre
+The rise of ChatGPT has also piqued my interest in AI. I'm actively enhancing my knowledge in this field by taking renowned courses and engaging with extensive materials.. I've completed Andrew Ng's Machine Learning Specialization and am currently enrolled in the AI Programming course on Udacity
 
 
 
