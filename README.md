@@ -1,6 +1,6 @@
 Hi there 👋, 
 
-Have a bug-free day! ;) 
+Have a bug-free day! ✌️
 
 
 
